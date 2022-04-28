@@ -10,3 +10,6 @@ You can add amoun, date and description to item and remove and Update item
 - Firebase
 
 ![Alt Text](https://media.giphy.com/media/OVlOfuPaVH5OkhFaiN/giphy.gif)
+
+## How to use
+**`npm install`** and  **`npm start`**
